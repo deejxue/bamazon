@@ -1,16 +1,34 @@
-# bamazon
-Amazon-like storefront pulling from local MySQL DB
+# BAMAZON STORE FOR YOU!!!
 
 ![alt text](./bamazon.works.jpg)
 
 ![alt text](./bamazon.more.jpg)
 
-## Overview
+## GREAT PRICES, GREAT STOCK
 
-In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
+Welcome to the Bamazon Store front.
 
-Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
+To use this application, make sure type the following to install these dependcies on your box.
 
+   > npm install mysql prompt 
+
+To run the program, type the following 
+
+   > node bamazonCustomer.js
+
+
+# HAPPY SHOPPING AND DON'T FORGET TO VISIT US AGAIN!
+
+INSTRUCTIONS FOR ORDERING:
+
+   * Enter the ID of the product you would like to buy.
+   * Enter how many units of the product you would like to buy.
+
+
+
+
+
+_________________________________________________________________
 ## Submission Guide
 
 Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.
