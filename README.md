@@ -1,7 +1,9 @@
 # bamazon
 Amazon-like storefront pulling from local MySQL DB
 
-![alt text](https://raw.githubusercontent.com/deejxue/bamazon/bamazon.works.jpg)
+![alt text](./bamazon.works.jpg)
+
+![alt text](./bamazon.more.jpg)
 
 ## Overview
 
